@@ -1,1 +1,12 @@
-Run 
+Compile: Open a terminal and navigate to the directory containing the C++ source files (Outbreak.cpp, Outbreak.h, Driver.cpp).
+Compile the program using a C++ compiler like g++:
+
+g++ Outbreak.cpp Outbreak.h Driver.cpp -o Outbreak
+
+Run: Once compiled, execute the program
+
+Configuration File
+The program will prompt you for a configuration file.
+These files define the simulation parameters like grid size, initial infected elements, infectious period, etc.
+Three example configuration files are provided in the folder.
+Feel free to edit these files and the corresponding region files to experiment with different simulation scenarios.
