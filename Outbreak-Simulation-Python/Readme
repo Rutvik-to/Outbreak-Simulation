@@ -1,0 +1,10 @@
+Locate the SimEngine.py Python script and run it using the terminal.
+
+Configuration File
+The program will prompt you for a configuration file.
+These files define the simulation parameters like grid size, initial infected elements, infectious period, etc.
+Three example configuration files are provided in the folder.
+Feel free to edit these files and the corresponding region files to experiment with different simulation scenarios.
+
+inputFileGenerator.py will prompt you for all required parameters and then will create a custom Configuration File.
+This new file can be used to simulate the outbreak
