@@ -1,0 +1,5 @@
+Region Height:10
+Region Width:10
+Threshold:1
+Infectious Period:2
+Region File:region1.txt

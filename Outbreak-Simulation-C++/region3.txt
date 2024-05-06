@@ -1,0 +1,7 @@
+S,S,S,S,S,S,S,S,S,S
+S,S,S,S,S,S,S,S,S,S
+V,V,V,V,V,V,V,V,V,S
+S,S,S,S,S,S,S,S,S,S
+S,S,S,S,I,I,S,S,S,S
+S,S,S,S,I,I,S,S,S,S
+S,S,S,S,S,S,S,S,S,S
