@@ -1,0 +1,6 @@
+Threshold:1
+s,s,s,s,s
+s,s,s,s,s
+s,s,i,s,s
+s,s,s,s,s
+s,s,s,s,s
